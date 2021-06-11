@@ -77,6 +77,14 @@ body .container2 {
         width:400px;
     }
 }
+@media (max-width:342px){
+    body .container2 img{
+        width:300px;
+    }
+    header .container ul{
+        width:70%;
+    }
+}
 
 
 
@@ -86,6 +94,23 @@ body .container2 {
         width:300px;
     }
 }
+@media (max-width:338px){
+    body .container2 img{
+        width:300px;
+    }
+    header .container ul{
+        width:70%;
+    }
+}
+@media (max-width:336px){
+    body .container2 img{
+        width:300px;
+    }
+    header .container ul{
+        width:70%;
+    }
+}
+
 @media (max-width:332px){
     body .container2 img{
         width:300px;
